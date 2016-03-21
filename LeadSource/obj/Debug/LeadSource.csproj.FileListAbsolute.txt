@@ -1,0 +1,10 @@
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\obj\Debug\LeadSource.csprojResolveAssemblyReference.cache
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\LeadSource.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\LeadSource.pdb
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\obj\Debug\LeadSource.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\LeadSource\LeadSource\obj\Debug\LeadSource.pdb
