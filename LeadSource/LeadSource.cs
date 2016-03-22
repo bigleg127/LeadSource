@@ -23,10 +23,11 @@ namespace LeadSource
 
             if (tracingService == null) return;
             if (lead.LogicalName != "lead") return;
+            if (lead.Attributes["subject"].ToString() == "") return;
 
             var leadsourceid = new EntityReference("ergo_leadsource", "ergo_name", "BAU");
             
-            if(!leadSourceExists(lead.Attributes["subject"].ToString(), orgservice) && lead.Attributes["subject"].ToString() != "")
+            if(!leadSourceExists(lead.Attributes["subject"].ToString(), orgservice))
             {
                 
                 var leadSource = new Entity("ergo_leadsourcesubcategory");
